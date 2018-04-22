@@ -210,7 +210,7 @@ z-index: 1;
     transform: translateY(-4%);
 	
 }
-.nav_day:hover, .nav_heart:hover, .active, .nav_info:hover{
+.nav_day:hover, .nav_heart:hover, .active, .nav_info:hover, .nav_ring:hover{
 	 padding: 14px;
 	 background: #2ecc71;
 	 border: 4px solid rgba(254, 254, 254, 1);
